@@ -1,0 +1,140 @@
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\Engine.dll
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\IMG\caja de power up.png
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\IMG\Enemigo comun.png
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\IMG\Enemigo Pesado.png
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\IMG\explosion del misile.png
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\IMG\fondo de pantalla.jpg
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\IMG\laser.png
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\IMG\Nave del capitan Kirk.png
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\IMG\Nave del comandante Mallhu Zelkas.png
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\ship.png
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\Game.exe
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\Game.pdb
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\obj\x86\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\obj\x86\Debug\Game.exe
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\obj\x86\Debug\Game.pdb
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\Engine.dll
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\IMG\caja de power up.png
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\IMG\Enemigo comun.png
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\IMG\Enemigo Pesado.png
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\IMG\explosion del misile.png
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\IMG\fondo de pantalla.jpg
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\IMG\laser.png
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\IMG\Nave del capitan Kirk.png
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\IMG\Nave del comandante Mallhu Zelkas.png
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\ship.png
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\Game.exe
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\bin\x86\Debug\Game.pdb
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\obj\x86\Debug\Game.exe
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\obj\x86\Debug\Game.pdb
+C:\Users\Videojuegos\Desktop\Entregas TM\De Los Santos\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\Engine.dll
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\IMG\caja de power up.png
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\IMG\Enemigo comun.png
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\IMG\Enemigo Pesado.png
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\IMG\explosion del misile.png
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\IMG\fondo de pantalla.jpg
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\IMG\laser.png
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\IMG\Nave del capitan Kirk.png
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\IMG\Nave del comandante Mallhu Zelkas.png
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\ship.png
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\Game.exe
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\bin\x86\Debug\Game.pdb
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\obj\x86\Debug\Game.exe
+C:\Users\Videojuegos\Downloads\De Los Santos\Game\obj\x86\Debug\Game.pdb
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\Engine.dll
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\IMG\Enemigo comun.png
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\IMG\Enemigo Pesado.png
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\IMG\explosion del misile.png
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\IMG\fondo de pantalla.jpg
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\IMG\laser.png
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\IMG\Nave del capitan Kirk.png
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\IMG\Nave del comandante Mallhu Zelkas.png
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\ship.png
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\Game.exe
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\Game.pdb
+C:\Users\Videojuegos\Downloads\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Videojuegos\Downloads\Game\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Videojuegos\Downloads\Game\obj\x86\Debug\Game.exe
+C:\Users\Videojuegos\Downloads\Game\obj\x86\Debug\Game.pdb
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\IMG\heal.jpg
+C:\Users\Manuel\Desktop\proyectos\Proyecto final\Game\bin\x86\Debug\IMG\misil.png
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\Engine.dll
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\IMG\Enemigo comun.png
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\IMG\Enemigo Pesado.png
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\IMG\explosion del misile.png
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\IMG\fondo de pantalla.jpg
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\IMG\heal.jpg
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\IMG\laser.png
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\IMG\misil.png
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\IMG\Nave del capitan Kirk.png
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\IMG\Nave del comandante Mallhu Zelkas.png
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\ship.png
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\Game.exe
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\Game.pdb
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\obj\x86\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\obj\x86\Debug\Game.exe
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\obj\x86\Debug\Game.pdb
+C:\Users\Manuel\Desktop\proyectos\Gran proyecto final de C#\Game\bin\x86\Debug\IMG\caja de municion.png
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\Engine.dll
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\IMG\caja de municion.png
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\IMG\Enemigo comun.png
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\IMG\Enemigo Pesado.png
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\IMG\explosion del misile.png
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\IMG\fondo de pantalla.jpg
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\IMG\heal.jpg
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\IMG\laser.png
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\IMG\misil.png
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\IMG\Nave del capitan Kirk.png
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\IMG\Nave del comandante Mallhu Zelkas.png
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\ship.png
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\Game.exe
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\bin\x86\Debug\Game.pdb
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\obj\x86\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\obj\x86\Debug\Game.exe
+C:\Users\Videojuegos\Desktop\Entregas TM\Entrega 2\De Los Santos\Game\obj\x86\Debug\Game.pdb
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\IMG\caja de municion.png
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\IMG\heal.jpg
+C:\Users\Videojuegos\Downloads\Game\bin\x86\Debug\IMG\misil.png
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\Engine.dll
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\IMG\caja de municion.png
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\IMG\Enemigo comun.png
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\IMG\Enemigo Pesado.png
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\IMG\explosion del misile.png
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\IMG\fondo de pantalla.jpg
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\IMG\heal.jpg
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\IMG\laser.png
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\IMG\misil.png
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\IMG\Nave del capitan Kirk.png
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\IMG\Nave del comandante Mallhu Zelkas.png
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\ship.png
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\Game.exe
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\bin\x86\Debug\Game.pdb
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\obj\x86\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\obj\x86\Debug\Game.exe
+C:\Users\Manuel\Desktop\proyectos\De Los Santos\Game\obj\x86\Debug\Game.pdb
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\Engine.dll
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\caja de municion.png
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\Enemigo comun.png
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\Enemigo Pesado.png
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\explosion del misile.png
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\fondo de pantalla.jpg
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\heal.jpg
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\laser.png
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\misil.png
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\Nave del capitan Kirk.png
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\Nave del comandante Mallhu Zelkas.png
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\ship.png
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\Game.exe
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\Game.pdb
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.exe
+C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.pdb
