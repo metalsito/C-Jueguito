@@ -138,3 +138,21 @@ C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Ga
 C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
 C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.exe
 C:\Users\Manu\Downloads\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.pdb
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\Engine.dll
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\caja de municion.png
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\Enemigo comun.png
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\Enemigo Pesado.png
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\explosion del misile.png
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\fondo de pantalla.jpg
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\heal.jpg
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\laser.png
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\misil.png
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\Nave del capitan Kirk.png
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\IMG\Nave del comandante Mallhu Zelkas.png
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\ship.png
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\Game.exe
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\bin\x86\Debug\Game.pdb
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.csprojAssemblyReference.cache
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.exe
+C:\Users\Manu\Documents\unity\Juegos antiguos de manu\C#Jueguito\Game\obj\x86\Debug\Game.pdb
